@@ -1,0 +1,58 @@
+[
+  {
+    "type": "home workout",
+    "date": "2024.03.22",
+    "activities": [
+      {
+        "type": "pull-ups",
+        "time": "5",
+        "reps": [7, 5, 5, 5, 3]
+      },
+      {
+        "type": "daily abs workout",
+        "time": "10",
+        "activities": [
+          "Basic crunch"        ,
+          "Right obligue crunch",
+          "Left obligue crunch" ,
+          "Bycycle crunch"      ,
+          "Reverse crunch"      ,
+          "Long arm crunch"     ,
+          "Crossover crunch"    ,
+          "Half curl"           ,
+          "Vertical leg crunch" ,
+          "Plank"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "home workout",
+    "date": "2024.03.20",
+    "activities": [
+      {"type": "stretching", "time": "10"},
+      {
+        "type": "daily abs workout",
+        "time": "10",
+        "activities": [
+          "Basic crunch"        ,
+          "Right obligue crunch",
+          "Left obligue crunch" ,
+          "Bycycle crunch"      ,
+          "Reverse crunch"      ,
+          "Long arm crunch"     ,
+          "Crossover crunch"    ,
+          "Half curl"           ,
+          "Vertical leg crunch" ,
+          "Plank"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "pull-ups",
+    "date": "2024.03.19",
+    "time": "5",
+    "reps": [5, 4, 4, 4, 3]
+  }
+]
